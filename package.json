@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.0.3",
+    "use-node-inspector": "github:JSerGit/use-node-inspector",
     "webpack": "^5.75.0"
   }
 }
