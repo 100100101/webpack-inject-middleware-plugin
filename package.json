@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "use-node-inspector": "git+https://github.com/JSerGit/use-node-inspector.git",
     "webpack": "^5.75.0"
   },
   "devDependencies": {
