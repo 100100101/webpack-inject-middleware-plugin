@@ -10,7 +10,5 @@
   "license": "ISC",
   "dependencies": {
     "webpack": "^5.75.0"
-  },
-  "devDependencies": {
   }
 }
